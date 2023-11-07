@@ -1,0 +1,8 @@
+1. Empezamos el proyecto ejecutando el comando npm init en la consola. Para crear nuestro package.json.
+
+
+2. Instalamos:
+- npm i express
+- npm i pg
+- npm i nodemon -D
+- npm i bcryptjs
